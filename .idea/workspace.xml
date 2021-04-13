@@ -146,7 +146,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618309353823</updated>
-      <workItem from="1618309354893" duration="653000" />
+      <workItem from="1618309354893" duration="12660000" />
     </task>
     <servers />
   </component>
@@ -158,5 +158,37 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2475" y="215" width="800" height="679" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1618311708086" />
+    <state x="2613" y="311" width="524" height="486" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1618313852586">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2613" y="311" width="524" height="486" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1618313852586" />
+    <state width="1291" height="568" key="GridCell.Tab.0.bottom" timestamp="1618347453381">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1291" height="568" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1618347453381" />
+    <state width="1291" height="568" key="GridCell.Tab.0.center" timestamp="1618347453381">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1291" height="568" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1618347453381" />
+    <state width="1291" height="568" key="GridCell.Tab.0.left" timestamp="1618347453381">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1291" height="568" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1618347453381" />
+    <state width="1291" height="568" key="GridCell.Tab.0.right" timestamp="1618347453381">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1291" height="568" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1618347453381" />
+    <state x="2757" y="442" width="373" height="256" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1618313493008">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2757" y="442" width="373" height="256" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1618313493008" />
+    <state x="2543" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1618340916095">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="259" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1618340916095" />
+    <state x="2605" y="466" width="540" height="176" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1618312101178">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2605" y="466" width="540" height="176" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1618312101178" />
   </component>
 </project>
